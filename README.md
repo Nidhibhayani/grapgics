@@ -1,2 +1,2 @@
-# grapgics
-graphics
+# graphics
+all graphics work
